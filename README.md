@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Kevin
 
-<!--
-**KevinNovselvrin/KevinNovselvrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Introduction
+Halo! Saya Kevin, mahasiswa yang sedang belajar UI/UX Design dan Web Development. 
+Saya tertarik dengan desain interface, user experience, dan pengembangan website.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tech Stack
+- HTML
+- CSS
+- Figma
+
+---
+
+## 📊 GitHub Stats
+(https://github.com/KevinNovselvrin/KevinNovselvrin/edit/main/README.md)
+---
+
+## 🌐 Social Media
+- Instagram: (https://www.instagram.com/_kevinnn821/)
+
+---
+
+## 🎉 Fun Fact
+Saya suka bermain game dan menonton balapan Formula 1
+
+---
+
+## 💬 Favorite Quote
+> "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
